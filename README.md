@@ -5,9 +5,9 @@ by **Qin Yu**, Dec 2018
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/qin-yu/ml-julia-boston-housing/blob/master/LICENSE)
 [![Julia v1.0.2](https://img.shields.io/badge/Julia-v1.0.2-brightgreen.svg)](https://julialang.org/blog/2018/08/one-point-zero)
 
-All Machine Learning Examples:
-- ML from Scratch 1: [Linear Regression & Kernel-Ridge Regression (KRR) on Boston Housing Dataset](https://github.com/qin-yu/julia-regression-boston-housing) [![Julia v1.0.1](https://img.shields.io/badge/Julia-v1.0.1-brightgreen.svg)](https://julialang.org/blog/2018/08/one-point-zero)
-- ML from Scratch 2: [Classification (Kernel Perceptron) on MNIST Handwritten Digits (#Multiprocessing)](https://github.com/qin-yu/julia-classification-mnist-digits) [![Julia v1.0.2](https://img.shields.io/badge/Julia-v1.0.2-brightgreen.svg)](https://julialang.org/blog/2018/08/one-point-zero)
+All Machine Learning from Scratch Examples:
+1. [![Julia v1.0.1](https://img.shields.io/badge/Julia-v1.0.1-brightgreen.svg)](https://julialang.org/blog/2018/08/one-point-zero) [Linear Regression & Kernel-Ridge Regression (KRR) on Boston Housing Dataset](https://github.com/qin-yu/julia-regression-boston-housing)
+2. [![Julia v1.0.2](https://img.shields.io/badge/Julia-v1.0.2-brightgreen.svg)](https://julialang.org/blog/2018/08/one-point-zero) [Classification (Kernel Perceptron) on MNIST Handwritten Digits (#Multiprocessing)](https://github.com/qin-yu/julia-classification-mnist-digits)
 
 ## Contents
 - [Manifesto](#manifesto)
